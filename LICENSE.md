@@ -14,4 +14,5 @@ The owner of the Software is <your name>.
 So this is a free software, you are permitted to copy, distribute and/or modify it,
 with these conditions:
     a) Your modificated instance Your Software must be contain the upper owner information,
-    b) You must distribute Your Software on an other name that not equals with the name of S
+    b) You must distribute Your Software on an other name that not equals with the name of Software, and
+    c) You are not permitted to take out a patent from the Software.
