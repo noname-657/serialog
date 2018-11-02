@@ -1,5 +1,5 @@
-                Adam's Public License
-                  Version 1, November 2018
+﻿                Alternative Public License
+                  Revision 1, November 2018
 
 
 (c) 2018 Hámori Ádám <adamhamori2@outlook.hu>
