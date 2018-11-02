@@ -2,7 +2,7 @@
                   Version 1, November 2018
 
 
-(c) 2018 Hámori Ádám <adamhamori2@outlook.hu>
+Copyright (c) 2018 Hámori Ádám <adamhamori2@outlook.hu>
 
 
 Everyone is free to copy and distribute verbatim or modified
